@@ -1,0 +1,12 @@
+main: xyz.dwaslashe.abyss.Main
+name: BrainAbyss
+description: Plugin Abyss
+version: 1.0.0
+authors: [dwaslashe, WuShei]
+website: buybrain.pl
+api-version: 1.13
+commands:
+  abyss:
+    aliases:
+      - otchlan
+      - otchłań
